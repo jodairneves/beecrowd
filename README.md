@@ -25,3 +25,11 @@
 8.  1018 - Cédulas
 9.  1019 - Conversão de Tempo
 10. 1020 - Idade em Dias
+
+### Lista 03 Beecrowd - #Godev Match Flow.
+
+1.  1059 - Números Pares
+2.  1060 - Números Positivos
+3.  1065 - Pares entre Cinco Números
+4.  1074 - Par ou Ímpar
+5.  2679 - Sucessor Par

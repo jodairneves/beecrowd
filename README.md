@@ -12,3 +12,16 @@
 8.  1007 - Diferença
 9.  1008 - Salário
 10. 1009 - Salário com Bônus
+
+### Lista 02 Beecrowd - #Godev Match Flow.
+
+1.  1011 - Esfera
+2.  1012 - Área
+3.  1013 - O Maior
+4.  1014 - Consumo
+5.  1015 - Distância Entre Dois Pontos
+6.  1016 - Distância
+7.  1017 - Gasto de Combustível
+8.  1018 - Cédulas
+9.  1019 - Conversão de Tempo
+10. 1020 - Idade em Dias

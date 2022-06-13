@@ -33,3 +33,16 @@
 3.  1065 - Pares entre Cinco Números
 4.  1074 - Par ou Ímpar
 5.  2679 - Sucessor Par
+
+### Lista 04 Beecrowd - #Godev Match Flow.
+
+1.  1021 - Notas e Moedas
+2.  1035 - Teste de Seleção 1
+3.  1036 - Fórmula de Bhaskara
+4.  1037 - Intervalo
+5.  1038 - Lanche
+6.  1040 - Média 3
+7.  1041 - Coordenadas de um Ponto
+8.  1042 - Sort Simples
+9.  1043 - Triângulo
+10. 1044 - Múltiplos
